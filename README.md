@@ -6,3 +6,6 @@
 
 
 Slack API > Your Apps > Create an app > From scratch > App Name > Pick a workspace to develop your app in: > Activate Incoming Webhooks > add new Webhooks > Select Where should prom2 post > Aloow > Copy Webhook URL and past to App
+
+
+Grapana Kubernetes Nodes for node exporter Number 8171
